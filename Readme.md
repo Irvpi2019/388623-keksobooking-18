@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Пинчук](https://up.htmlacademy.ru/javascript/18/user/388623).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Рыжаков](https://up.htmlacademy.ru/javascript/18/user/201015).
 
 ---
 
